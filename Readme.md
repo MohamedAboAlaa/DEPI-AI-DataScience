@@ -1,4 +1,3 @@
-
 # AI & Data Science - Data Scientist
 
 This repository contains materials, assignments, and resources for the **AI & Data Science - Data Scientist** course, designed by IBM. This course aims to equip data scientists with the essential skills and tools to extract meaningful insights from data, helping organizations leverage data for strategic business advantages.
